@@ -1,0 +1,14 @@
+This is a placeholder for demo.wav file.
+
+In a real implementation, this would be a WAV audio file for demonstration purposes.
+You can replace this file with any WAV audio file for testing the visualizer.
+
+The application will generate sample visualization data if this file is not a valid WAV file.
+
+Suggested demo files:
+- A simple sine wave tone
+- A short musical excerpt
+- Any WAV file you'd like to visualize
+
+To use your own audio file, simply replace this file with a WAV file named "demo.wav"
+or run the application with a command-line argument pointing to your audio file.
